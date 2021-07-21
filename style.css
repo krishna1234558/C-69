@@ -1,0 +1,38 @@
+body{
+   text-align: center ;
+    
+}
+
+#bio
+{
+    width:50%;
+    text-align: center;
+
+}
+
+cred{
+    position:fixed;
+}
+
+deb{
+    text-align: center;
+}
+
+
+secure{
+text-align: center;
+    height: 20px;
+    width: 20px;
+}
+
+h3{
+    text-align: left;
+}
+
+h4{
+    text-align: left;
+}
+
+h5{
+    text-align: left;
+}
